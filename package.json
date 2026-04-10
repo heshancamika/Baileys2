@@ -1,7 +1,7 @@
 {
   "name": "xnxx-bail-pro",
   "type": "module",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "WhatsApp Web API client with interactive messages, product catalogs, carousels, events, payments, and polls. Forked from WhiskeySockets/Baileys.",
   "keywords": [
     "whatsapp",
@@ -30,13 +30,13 @@
     "whatsapp-automation",
     "sticker-packs"
   ],
-  "homepage": "https://github.com/xnx6x/xnxx-baileys",
+  "homepage": "https://github.com/xnx6x/xnxx-bail-pro",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xnx6x/xnxx-baileys.git"
+    "url": "git+https://github.com/xnx6x/xnxx-bail-pro.git"
   },
   "bugs": {
-    "url": "https://github.com/xnx6x/xnxx-baileys/issues"
+    "url": "https://github.com/xnx6x/xnxx-bail-pro/issues"
   },
   "license": "MIT",
   "author": {
@@ -61,6 +61,7 @@
     "lib/**/*.js",
     "lib/**/*.d.ts",
     "WAProto/**/*.js",
+    "assets/**/*.svg",
     "engine-requirements.js",
     "README.md",
     "LICENSE"

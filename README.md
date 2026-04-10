@@ -1,7 +1,7 @@
 # XNXX Bail Pro
 
 <p align="center">
-  <img src="./assets/readme-banner.svg" alt="XNXX Bail Pro banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/xnx6x/xnxx-bail-pro/main/assets/readme-banner.svg" alt="XNXX Bail Pro banner" width="100%" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ The result is easier debugging, faster experiments, and a better path for keepin
 ## Architecture
 
 <p align="center">
-  <img src="./assets/module-map.svg" alt="Module architecture diagram" width="100%" />
+  <img src="https://raw.githubusercontent.com/xnx6x/xnxx-bail-pro/main/assets/module-map.svg" alt="Module architecture diagram" width="100%" />
 </p>
 
 ---
